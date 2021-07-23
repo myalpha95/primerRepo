@@ -52,3 +52,38 @@ Codigo en Java script
 ```Javascript
 var hola = "mundo";
 ```
+
+# Tablas
+| Nombre | Apellido | Documento | 
+| ------ | -------- | --------- |
+| Maxi | Burgos | PDF |
+| Hugo | Sanabria | JPG | 
+
+# Citas
+esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita 
+
+Esto es otro texto que no es una cita y no se relaciona
+> Esto es otra cita
+
+# Linea divisoras
+Esto es un texto normal
+
+---
+Esto es otro texto dividido.
+
+***
+
+Texto mas pro
+
+___
+
+
+# Saltos de linea
+
+Primer parrafo.
+
+Segundo parrafo.
+
+Tercer parrafo.
+- Lista
